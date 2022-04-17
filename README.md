@@ -5,4 +5,7 @@ Just Use Script and add a Text Mesh Pro.
 
 to show FPS, set PlayerPrefs SHOWFPS == 1;
 
+Licence Type : 
+No Licence.
+
 Aurora Game Studio.
